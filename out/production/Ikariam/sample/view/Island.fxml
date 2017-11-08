@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.IslandController">
+   <children>
+      <ImageView fitHeight="614.0" fitWidth="900.0" layoutX="13.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true" style="-fx-image: url(file:///Users/mac/Desktop/Island_1-0.5.0.jpg);" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <Button layoutX="147.0" layoutY="193.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="240.0" layoutY="207.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="312.0" layoutY="166.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="418.0" layoutY="112.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="672.0" layoutY="146.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="598.0" layoutY="243.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="719.0" layoutY="234.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="728.0" layoutY="319.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="119.0" layoutY="265.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="634.0" layoutY="415.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="740.0" layoutY="399.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="535.0" layoutY="444.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="338.0" layoutY="483.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="293.0" layoutY="400.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="190.0" layoutY="435.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+      <Button layoutX="103.0" layoutY="395.0" mnemonicParsing="false" onAction="#handleOnTownHall" prefHeight="35.0" prefWidth="35.0" style="-fx-background-color: #00FFFF00; -fx-background-size: cover;" />
+   </children>
+</AnchorPane>
